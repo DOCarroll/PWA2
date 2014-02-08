@@ -1,0 +1,10 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.wrapper {
+    width:960px;
+    background-color: hotpink;
+    margin: 0 auto;
+}
