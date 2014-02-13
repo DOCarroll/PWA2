@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9372c91d-82d2-4082-aaf8-fce06645eda6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_01/images/Dogs_tattoo_397.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_05/js/dojo5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_01/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_05/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_05/js/jqeury-1.11.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/js/jquery-1.11.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/04_student/03_login/js/jquery-1.11.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_01/js/jquery-1.11.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_05/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/04_student/03_login/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_01/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PWA2.iws" />
@@ -416,13 +405,18 @@
       <created>1392128081356</created>
       <updated>1392128081356</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit&#10;">
+      <created>1392307953085</created>
+      <updated>1392307953085</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="44" width="1420" height="627" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -437,7 +431,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -532,12 +525,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/Dojo_01/js/jquery-1.11.0.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.08533333" vertical-offset="0" max-vertical-offset="750" />
+        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.08533333" vertical-offset="0" max-vertical-offset="750">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/Dojo_01/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="318" selection-end="318" vertical-scroll-proportion="0.42264152" vertical-offset="0" max-vertical-offset="530" />
+        <state line="14" column="3" selection-start="318" selection-end="318" vertical-scroll-proportion="0.42264152" vertical-offset="0" max-vertical-offset="530">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/css/navbar.css">
