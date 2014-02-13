@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9372c91d-82d2-4082-aaf8-fce06645eda6" name="Default" comment="">
+    <list default="true" id="9372c91d-82d2-4082-aaf8-fce06645eda6" name="Default" comment="Initial commit&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PWA2.iws" />
@@ -21,19 +22,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="PWA2" />
+    <favorites_list name="PWA2">
+      <favorite_root url="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/student.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="31" selection-start="200" selection-end="200" vertical-scroll-proportion="-5.76" vertical-offset="0" max-vertical-offset="384">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,10 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dojo5.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="dojo5.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/js/dojo5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.33207548" vertical-offset="0" max-vertical-offset="530">
+            <state line="11" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="7" selection-start="2092" selection-end="2092" vertical-scroll-proportion="3.7383177" vertical-offset="0" max-vertical-offset="1296">
               <folding />
             </state>
           </provider>
@@ -77,7 +80,6 @@
         <option value="$PROJECT_DIR$/Wk2/Dojo_01/index.html" />
         <option value="$PROJECT_DIR$/Wk2/Dojo_01/js/main.js" />
         <option value="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/js/jquery-1.11.0.min.js" />
-        <option value="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/student.html" />
         <option value="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/css/navbar.css" />
         <option value="$PROJECT_DIR$/Wk2/04_student/03_login/css/style.css" />
         <option value="$PROJECT_DIR$/Wk2/04_student/03_login/js/jquery-1.11.0.min.js" />
@@ -87,6 +89,8 @@
         <option value="$PROJECT_DIR$/Wk2/Dojo_05/css/main.css" />
         <option value="$PROJECT_DIR$/Wk2/Dojo_05/index.html" />
         <option value="$PROJECT_DIR$/Wk2/Dojo_05/js/dojo5.js" />
+        <option value="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/student.html" />
+        <option value="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/index.html" />
       </list>
     </option>
   </component>
@@ -409,19 +413,23 @@
       <created>1392307953085</created>
       <updated>1392307953085</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit&#10;">
+      <created>1392307966253</created>
+      <updated>1392307966253</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="44" width="1420" height="627" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -541,7 +549,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/css/navbar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="90" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.46421662" vertical-offset="0" max-vertical-offset="544" />
+        <state line="15" column="90" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.46421662" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/02_Menu_Fader/js/jquery.js">
@@ -591,12 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/03_login/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="477" selection-end="477" vertical-scroll-proportion="-0.5735849" vertical-offset="512" max-vertical-offset="2752" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/student.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="0.619802" vertical-offset="183" max-vertical-offset="1296">
+        <state line="13" column="19" selection-start="477" selection-end="477" vertical-scroll-proportion="-0.5735849" vertical-offset="512" max-vertical-offset="2752">
           <folding />
         </state>
       </provider>
@@ -647,7 +652,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="31" selection-start="200" selection-end="200" vertical-scroll-proportion="-5.76" vertical-offset="0" max-vertical-offset="384">
+        <state line="0" column="0" selection-start="0" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
           <folding />
         </state>
       </provider>
@@ -659,9 +664,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1868" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1296">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/js/dojo5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.33207548" vertical-offset="0" max-vertical-offset="530">
+        <state line="11" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="7" selection-start="2092" selection-end="2092" vertical-scroll-proportion="3.7383177" vertical-offset="0" max-vertical-offset="1296">
           <folding />
         </state>
       </provider>
