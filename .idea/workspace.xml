@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9372c91d-82d2-4082-aaf8-fce06645eda6" name="Default" comment="Initial commit&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/index.html" />
+    <list default="true" id="9372c91d-82d2-4082-aaf8-fce06645eda6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Milestone/sounds/beer_can_opening.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_06/js/dojo6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_06/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Milestone/js/ion.sound.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/05_Lab/js/jquery-1.11.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_06/js/jquery-1.11.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Milestone/js/jquery.label_better.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Wk2/Dojo_06/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Milestone/css/toastr.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Milestone/js/toastr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Milestone/index.html" afterPath="$PROJECT_DIR$/Milestone/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Milestone/js/init.js" afterPath="$PROJECT_DIR$/Milestone/js/init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Milestone/css/main.css" afterPath="$PROJECT_DIR$/Milestone/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PWA2.iws" />
@@ -28,28 +40,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Milestone/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="117" column="43" selection-start="4072" selection-end="4072" vertical-scroll-proportion="-15.04" vertical-offset="1496" max-vertical-offset="2016">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/css/main.css">
+        <entry file="file://$PROJECT_DIR$/Milestone/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128">
+            <state line="313" column="0" selection-start="4845" selection-end="4845" vertical-scroll-proportion="-17.26923" vertical-offset="4559" max-vertical-offset="5104">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dojo5.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/js/dojo5.js">
+      <file leaf-file-name="init.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Milestone/js/init.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="7" selection-start="2092" selection-end="2092" vertical-scroll-proportion="3.7383177" vertical-offset="0" max-vertical-offset="1296">
+            <state line="19" column="3" selection-start="396" selection-end="396" vertical-scroll-proportion="0.5714286" vertical-offset="0" max-vertical-offset="1360">
               <folding />
             </state>
           </provider>
@@ -73,9 +85,6 @@
         <option value="$PROJECT_DIR$/Wk1/JSFundamentals/index.html" />
         <option value="$PROJECT_DIR$/Wk1/Dojo/index.html" />
         <option value="$PROJECT_DIR$/Wk1/Dojo/css/style.css" />
-        <option value="$PROJECT_DIR$/Milestone/css/main.css" />
-        <option value="$PROJECT_DIR$/Milestone/js/init.js" />
-        <option value="$PROJECT_DIR$/Milestone/index.html" />
         <option value="$PROJECT_DIR$/Wk2/Dojo_01/js/jquery-1.11.0.min.js" />
         <option value="$PROJECT_DIR$/Wk2/Dojo_01/index.html" />
         <option value="$PROJECT_DIR$/Wk2/Dojo_01/js/main.js" />
@@ -91,14 +100,39 @@
         <option value="$PROJECT_DIR$/Wk2/Dojo_05/js/dojo5.js" />
         <option value="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/student.html" />
         <option value="$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/index.html" />
+        <option value="$PROJECT_DIR$/Wk2/05_01_StudentFiles/js/05_01.js" />
+        <option value="$PROJECT_DIR$/Wk2/05_01_StudentFiles/js/05_02.js" />
+        <option value="$PROJECT_DIR$/Wk2/05_01_StudentFiles/js/05_03.js" />
+        <option value="$PROJECT_DIR$/Wk2/05_Lab/js/jquery-1.11.0.min.js" />
+        <option value="$PROJECT_DIR$/Wk2/05_Lab/index.html" />
+        <option value="$PROJECT_DIR$/Wk2/05_Lab/js/inputHint.js" />
+        <option value="$PROJECT_DIR$/Wk2/05_Lab/js/tabs.js" />
+        <option value="$PROJECT_DIR$/Wk2/Dojo_06/js/jquery-1.11.0.min.js" />
+        <option value="$PROJECT_DIR$/Wk2/Dojo_06/css/main.css" />
+        <option value="$PROJECT_DIR$/Wk2/Dojo_06/index.html" />
+        <option value="$PROJECT_DIR$/Wk2/Dojo_06/js/dojo6.js" />
+        <option value="$PROJECT_DIR$/Wk2/OrganicTabs_Student/css/style.css" />
+        <option value="$PROJECT_DIR$/Wk2/OrganicTabs_Student/index.html" />
+        <option value="$PROJECT_DIR$/Wk2/OrganicTabs_Student/js/withoutPlugin.js" />
+        <option value="$PROJECT_DIR$/Milestone/js/jquery.hoverpulse.js" />
+        <option value="$PROJECT_DIR$/Milestone/js/pixelate.min.js" />
+        <option value="$PROJECT_DIR$/Milestone/js/share.min.js" />
+        <option value="$PROJECT_DIR$/Milestone/js/toastr.js" />
+        <option value="$PROJECT_DIR$/Milestone/css/toastr.min.css" />
+        <option value="$PROJECT_DIR$/Milestone/js/jquery.label_better.js" />
+        <option value="$PROJECT_DIR$/Milestone/css/main.css" />
+        <option value="$PROJECT_DIR$/Milestone/js/validetta-min.js" />
+        <option value="$PROJECT_DIR$/Milestone/js/ion.sound.min.js" />
+        <option value="$PROJECT_DIR$/Milestone/index.html" />
+        <option value="$PROJECT_DIR$/Milestone/js/init.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="44" />
-    <option name="width" value="1420" />
-    <option name="height" value="627" />
+    <option name="x" value="439" />
+    <option name="y" value="79" />
+    <option name="width" value="1396" />
+    <option name="height" value="642" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -155,113 +189,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Wk2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo_05" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Wk2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo_05" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Wk2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo_05" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Wk2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dojo_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Wk2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04_student" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PWA2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Wk2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04_student" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01_Nav_Menu" />
+              <option name="myItemId" value="Milestone" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -276,6 +204,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Milestone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sounds" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -324,21 +256,32 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistory" value="" />
-    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Wk2/OrganicTabs_Student/js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Milestone/sounds" />
       <recent name="$PROJECT_DIR$/Wk2" />
       <recent name="$PROJECT_DIR$/Wk2/Dojo_01/images" />
       <recent name="$PROJECT_DIR$/Milestone/img" />
       <recent name="$PROJECT_DIR$/Milestone/js" />
-      <recent name="$PROJECT_DIR$/Milestone/css" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -349,23 +292,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -417,28 +352,32 @@
       <created>1392307966253</created>
       <updated>1392307966253</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit&#10;">
+      <created>1392308291782</created>
+      <updated>1392308291782</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="44" width="1420" height="627" extended-state="0" />
+    <frame x="439" y="79" width="1396" height="642" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297491" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -463,44 +402,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Milestone/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5072">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Milestone/js/jquery-1.11.0.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="0" selection-end="96381" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="160">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Milestone/js/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="12" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1088">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Milestone/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0" vertical-offset="1383" max-vertical-offset="1936">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wk1/JSFundamentals/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="29" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="368" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wk1/JSFundamentals/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="3" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="128" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Wk1/JSFundamentals/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="22" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="384" />
@@ -533,25 +434,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/Dojo_01/js/jquery-1.11.0.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.08533333" vertical-offset="0" max-vertical-offset="750">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.08533333" vertical-offset="0" max-vertical-offset="750" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/Dojo_01/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="318" selection-end="318" vertical-scroll-proportion="0.42264152" vertical-offset="0" max-vertical-offset="530">
-          <folding />
-        </state>
+        <state line="14" column="3" selection-start="318" selection-end="318" vertical-scroll-proportion="0.42264152" vertical-offset="0" max-vertical-offset="530" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/css/navbar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="90" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.46421662" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
+        <state line="15" column="90" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.46421662" vertical-offset="0" max-vertical-offset="544" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/02_Menu_Fader/js/jquery.js">
@@ -566,27 +459,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/02_Menu_Fader/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="928">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="928" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/js/jquery-1.11.0.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.123791106" vertical-offset="0" max-vertical-offset="517">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.123791106" vertical-offset="0" max-vertical-offset="517" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/03_login/js/jquery-1.11.0.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.123791106" vertical-offset="0" max-vertical-offset="517">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
+        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.123791106" vertical-offset="0" max-vertical-offset="517" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/03_login/student.html">
@@ -601,86 +484,211 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/04_student/03_login/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="477" selection-end="477" vertical-scroll-proportion="-0.5735849" vertical-offset="512" max-vertical-offset="2752">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Milestone/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="10" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="5072">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Milestone/js/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="3" selection-start="638" selection-end="638" vertical-scroll-proportion="0.5735849" vertical-offset="304" max-vertical-offset="1088">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Milestone/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="-1.1544554" vertical-offset="743" max-vertical-offset="1936">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Milestone/js/jquery-1.11.0.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="32" selection-start="0" selection-end="96381" vertical-scroll-proportion="0.030947777" vertical-offset="0" max-vertical-offset="517">
-          <folding />
-        </state>
+        <state line="13" column="19" selection-start="477" selection-end="477" vertical-scroll-proportion="-0.5735849" vertical-offset="512" max-vertical-offset="2752" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/js/jqeury-1.11.0.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.123791106" vertical-offset="0" max-vertical-offset="517">
+        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.123791106" vertical-offset="0" max-vertical-offset="517" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_01/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/student.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1868" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1296" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/js/dojo5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="0.34890965" vertical-offset="0" max-vertical-offset="1296" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_01_StudentFiles/js/05_01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="31" selection-start="347" selection-end="347" vertical-scroll-proportion="0.60115606" vertical-offset="0" max-vertical-offset="346" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_01_StudentFiles/05_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_01_StudentFiles/05_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="1.28" vertical-offset="32" max-vertical-offset="400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_01_StudentFiles/js/05_02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="32" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="208" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_01_StudentFiles/05_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="2.52" vertical-offset="63" max-vertical-offset="448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_01_StudentFiles/js/05_03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="6" selection-start="568" selection-end="568" vertical-scroll-proportion="0.51320755" vertical-offset="0" max-vertical-offset="530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_Lab/js/jquery-1.11.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.123791106" vertical-offset="0" max-vertical-offset="517" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_Lab/js/inputHint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="49" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_Lab/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="25" selection-start="3652" selection-end="3652" vertical-scroll-proportion="6.6" vertical-offset="1317" max-vertical-offset="2688">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/05_Lab/js/tabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="3" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Milestone/js/jquery-1.11.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="33" selection-start="0" selection-end="96381" vertical-scroll-proportion="0.092843324" vertical-offset="0" max-vertical-offset="517" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_06/js/jquery-1.11.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="96381" selection-end="96381" vertical-scroll-proportion="0.123791106" vertical-offset="0" max-vertical-offset="517" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_06/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="726" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_06/js/dojo6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="528" selection-end="528" vertical-scroll-proportion="0.54339623" vertical-offset="0" max-vertical-offset="530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_06/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="30" selection-start="96" selection-end="96" vertical-scroll-proportion="0.1509434" vertical-offset="0" max-vertical-offset="530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/OrganicTabs_Student/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="28" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/OrganicTabs_Student/js/jquery-1.11.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/OrganicTabs_Student/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="15" selection-start="423" selection-end="423" vertical-scroll-proportion="1.92" vertical-offset="352" max-vertical-offset="2672">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/OrganicTabs_Student/js/withoutPlugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="14" selection-start="1157" selection-end="1157" vertical-scroll-proportion="0.99816513" vertical-offset="0" max-vertical-offset="768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wk2/OrganicTabs_Student/js/organictabs.jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1328" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Milestone/js/toastr.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="38" selection-start="3411" selection-end="3411" vertical-scroll-proportion="0.030075189" vertical-offset="0" max-vertical-offset="532">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Milestone/css/toastr.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="182" column="1" selection-start="6994" selection-end="6994" vertical-scroll-proportion="0.96428573" vertical-offset="2399" max-vertical-offset="3008">
+          <folding>
+            <element signature="e#3003#3752#2" expanded="false" />
+            <element signature="e#3823#4612#2" expanded="false" />
+            <element signature="e#4685#5174#2" expanded="false" />
+            <element signature="e#5247#5964#2" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Milestone/js/jquery.label_better.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="158" column="17" selection-start="6528" selection-end="6528" vertical-scroll-proportion="4.7518797" vertical-offset="0" max-vertical-offset="2624">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1392513103000" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Milestone/js/ion.sound.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="1288" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.09022556" vertical-offset="0" max-vertical-offset="532">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_01/index.html">
+    <entry file="file://$PROJECT_DIR$/Milestone/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
+        <state line="313" column="0" selection-start="4845" selection-end="4845" vertical-scroll-proportion="-17.26923" vertical-offset="4559" max-vertical-offset="5104">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/index.html">
+    <entry file="file://$PROJECT_DIR$/Milestone/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
+        <state line="117" column="43" selection-start="4072" selection-end="4072" vertical-scroll-proportion="-15.04" vertical-offset="1496" max-vertical-offset="2016">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/css/main.css">
+    <entry file="file://$PROJECT_DIR$/Milestone/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/student.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="1868" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1296">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wk2/Dojo_05/js/dojo5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wk2/04_student/01_Nav_Menu/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="7" selection-start="2092" selection-end="2092" vertical-scroll-proportion="3.7383177" vertical-offset="0" max-vertical-offset="1296">
+        <state line="19" column="3" selection-start="396" selection-end="396" vertical-scroll-proportion="0.5714286" vertical-offset="0" max-vertical-offset="1360">
           <folding />
         </state>
       </provider>

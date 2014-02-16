@@ -4,6 +4,7 @@
     <title>Brew Bros</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/main.css" rel="stylesheet">
+    <link href="css/toastr.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=New+Rocker' rel='stylesheet' type='text/css'>
     <link rel="icon" href="img/favicon.ico">
 
@@ -13,7 +14,7 @@
 <body>
 <div class="gray"></div>
 <div class="wrapper">
-
+    <div class="share-button"></div>
     <!-- Left Navigation -->
     <div class="leftnavbox">
         <ul>
@@ -29,18 +30,18 @@
         <ul>
             <li><a href="#">Careers</a></li>
             <li><a href="#">About Us</a></li>
-            <li><a href="#" class="login">Login</a></li>
+            <li><a href="#" class="login" id="b01">Login</a></li>
         </ul>
     </div>
 
     <!--This is the Login Form -->
     <div class="loginbox">
         <div class="form strong">Login</div>
-        <div class="form"><label for="Username">Username:</label>
-        <input type="email" id="Username">
+        <div class="form">
+        <input type="email"  id="Username" class="label_better" data-position="right" placeholder="Username">
         </div>
-        <div class="form"><label for="Password">Password:</label>
-        <input type="password" id="Password"> </div>
+        <div class="form">
+        <input type="password" id="Password" class="label_better" data-position="right" placeholder="Password"> </div>
         <div class="form"><a href="index.html"><input type="submit" value="Login"></a>
         <div class="cancel">Cancel</div></div>
         <div class="signup">Sign Up</div>
@@ -82,7 +83,7 @@
         <a href="#">
         <div class="imgbox first">
         <h1>Browse Brews</h1>
-        <img src="img/BrowseBrew.jpg">
+        <img src="img/BrowseBrew.jpg" >
         </div>
         </a>
         <a href="#">
@@ -110,7 +111,11 @@
     </div>
 
     <!-- Scripts -->
+
 <script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/toastr.min.js"></script>
+<script src="js/jquery.label_better.js"></script>
+<script src="js/ion.sound.min.js"></script>
 <script src="js/init.js"></script>
 </body>
 </html>
